@@ -1,0 +1,34 @@
+#carouselExampleRide {
+    margin: auto;
+    max-width: 600px;
+    width: 100%;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+a img {
+    border: none; 
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    color: #fff;  
+    text-decoration: none; 
+}
+
+footer a:hover {
+    text-decoration: underline; 
+}
+
